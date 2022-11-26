@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Puneet 👋
 
 <!--
 **puneetmpatil/puneetmpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneetmpatil&show_icons=true&theme=radical)
+![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneetmpatil&show_icons=true&theme=radical)
+
+[![Puneet's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=puneetmpatil&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/puneetmpatil/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puneetmpatil&layout=compact)](https://github.com/puneetmpatil/github-readme-stats)
