@@ -32,3 +32,13 @@ Here are some ideas to get you started:
   
   <h3 align="left">Databases</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&emsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&emsp; <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+
+<br>
+<br>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneetmpatil&show_icons=true&locale=en&layout=compact" alt="puneetmpatil" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneetmpatil&show_icons=true&locale=en" alt="puneetmpatil" /></p>
+<br>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetmpatil&" alt="puneetmpatil" /></p>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetmpatil" alt="puneetmpatil" /></a> </p>
